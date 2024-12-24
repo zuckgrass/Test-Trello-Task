@@ -1,4 +1,3 @@
-
 # Trello Card Creation CLI
 
 This is a **Python command-line interface (CLI)** program that allows users to add a card to a **Trello** board. The program can add a Trello card with **labels** and a **comment** to a specified column (list) on a board.
